@@ -1,0 +1,9 @@
+{
+  "author": "https://github.com/pBread",
+  "name": "frontline-implementation-in-10-minutes",
+  "scripts": {
+    "dev": "twilio serverless:start --ngrok=pbread",
+    "deploy": "twilio serverless:deploy --no-assets --override-existing-project"
+  },
+  "version": "1.0.0"
+}
