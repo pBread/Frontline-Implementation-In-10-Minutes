@@ -1,7 +1,8 @@
 {
   "author": "https://github.com/pBread",
   "dependencies": {
-    "jsforce": "^1.11.0"
+    "jsforce": "^1.11.0",
+    "twilio": "^3.77.2"
   },
   "name": "frontline-implementation-in-10-minutes",
   "scripts": {
